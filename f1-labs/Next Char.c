@@ -6,7 +6,7 @@ char* find_char(char s[], int c);
 int main() {
 	char str[128];
 	char c, *next_c;
-	
+	// my comment form khoffan welcome
 	printf("S:");
 	gets(str);
 	printf("C:");
